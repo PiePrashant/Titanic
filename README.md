@@ -6,7 +6,7 @@ Libraries used - Numpy, Pandas, matplotlib, seaborn, sklearn
 Steps:
   - Data visualization
   - Missing value treatment
-  - data Engineering
+  - Data Engineering
   - Learning Model
       - Gaussian Naive Bayes
       - Logistic Regression
